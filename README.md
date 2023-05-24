@@ -1,2 +1,10 @@
-# projeto-The-Last-of-Us
-Projeto the last of us contendo duas redes sociais
+# Projeto the Last Of Us
+
+Projeto The Last Of Us
+
+ferramentas utilizadas:
+- HTML
+- CSS
+- JS
+
+[<img src="./mini-portfolio.gif" alt="mini portfolio">]
