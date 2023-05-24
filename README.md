@@ -7,4 +7,4 @@ ferramentas utilizadas:
 - CSS
 - JS
 
-[<img src="./mini-portfolio.gif" alt="mini portfolio">]
+[<img src="./gif-TLOU.gif" alt="PROJETO-TLOU">]
